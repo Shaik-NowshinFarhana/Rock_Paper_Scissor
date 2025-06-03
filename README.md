@@ -1,17 +1,18 @@
 # 🎮 Rock-Paper-Scissors Game with Streamlit
 
 A fun and interactive Rock-Paper-Scissors game built using **Python** and **Streamlit**, complete with local sound effects and a leaderboard powered by **MongoDB**.
+--
 
-##📝 How to Play
---Enter your name.
+## 📝 How to Play
+-Enter your name.
 
---Choose Rock, Paper, or Scissors.
+-Choose Rock, Paper, or Scissors.
 
---Click Play.
+-Click Play.
 
---Hear a sound based on the outcome!
+-Hear a sound based on the outcome!
 
---See your score and the leaderboard.
+-See your score and the leaderboard.
 
 ---
 
